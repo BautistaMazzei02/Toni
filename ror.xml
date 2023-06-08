@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://bautistamazzei02.github.io/Toni/index.html</title>
+  <link>https://bautistamazzei02.github.io/Toni/index.html</link>
+
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/index.html</link>
+     <title>TONI</title>
+     <description>TONI</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/contacto.html</link>
+     <title>Contacto</title>
+     <description>Contacto</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/rese%C3%B1as.html</link>
+     <title>Reseñas</title>
+     <description>Reseñas</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/favoritos.html</link>
+     <title>Favoritos</title>
+     <description>Favoritos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/iniciarsesion.html</link>
+     <title>Iniciar sesion</title>
+     <description>Iniciar sesion</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/crearcuenta.html</link>
+     <title>Crear cuenta</title>
+     <description>Crear cuenta</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/buscar.html</link>
+     <title>Buscar</title>
+     <description>Buscar</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/HEADER/carrito.html</link>
+     <title>Carrito</title>
+     <description>Carrito</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/deraza.html</link>
+     <title>Perros de raza</title>
+     <description>Perros de raza</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/refugios.html</link>
+     <title>Refugios</title>
+     <description>Refugios</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/perdidos.html</link>
+     <title>Perros perdidos</title>
+     <description>Perros perdidos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/veterinarias.html</link>
+     <title>Veterinarias</title>
+     <description>Veterinarias</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/paseadores.html</link>
+     <title>paseadores</title>
+     <description>paseadores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/adiestradores.html</link>
+     <title>Adiestradores</title>
+     <description>Adiestradores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/FOOTER/defensaalconsumidor.html</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/FOOTER/politicadeprivacidad.html</link>
+     <title>Politica de privacidad</title>
+     <description>Politica de privacidad</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/FOOTER/preguntasfrecuentes.html</link>
+     <title>Preguntas frecuentes</title>
+     <description>Preguntas frecuentes</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/FOOTER/terminosycondiciones.html</link>
+     <title>Terminos y condiciones</title>
+     <description>Terminos y condiciones</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/labrador.html</link>
+     <title>Labrador</title>
+     <description>Labrador</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/caniche.html</link>
+     <title>Caniches</title>
+     <description>Caniches</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/bulldog.html</link>
+     <title>Bulldog ingles</title>
+     <description>Bulldog ingles</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/patitasalrescate.html</link>
+     <title>Patitas al rescate </title>
+     <description>Patitas al rescate </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/adoptarg.html</link>
+     <title>Adoptarg</title>
+     <description>Adoptarg</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/adoptame.html</link>
+     <title>Adoptame</title>
+     <description>Adoptame</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/buscarperro.html</link>
+     <title>Buscar a mi perro</title>
+     <description>Buscar a mi perro</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/perdiperro.html</link>
+     <title>Publicar perro perdido</title>
+     <description>Publicar perro perdido</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/tomas.html</link>
+     <title>Paseadores</title>
+     <description>Paseadores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/martin.html</link>
+     <title>Paseadores</title>
+     <description>Paseadores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/andy.html</link>
+     <title>Paseadores</title>
+     <description>Paseadores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/ricardo.html</link>
+     <title>Adiestradores</title>
+     <description>Adiestradores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/lucas.html</link>
+     <title>Adiestradores</title>
+     <description>Adiestradores</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/sanjorgelab.html</link>
+     <title>Criadero San Jorge</title>
+     <description>Criadero San Jorge</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/valentina.html</link>
+     <title>Valentina`s</title>
+     <description>Valentina`s</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/nico.html</link>
+     <title>Nico</title>
+     <description>Nico</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/mati.html</link>
+     <title>Mati</title>
+     <description>Mati</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/lara.html</link>
+     <title>Lara</title>
+     <description>Lara</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/labradornegro.html</link>
+     <title>Labrador negro</title>
+     <description>Labrador negro</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/canecorsonegro.html</link>
+     <title>Cane Corso Negro</title>
+     <description>Cane Corso Negro</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/goldenmarron.html</link>
+     <title>Golden marron</title>
+     <description>Golden marron</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/rocky.html</link>
+     <title>Rocky</title>
+     <description>Rocky</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/tobi.html</link>
+     <title>Tobi</title>
+     <description>Tobi</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bautistamazzei02.github.io/Toni/paginas/MAIN/matute.html</link>
+     <title>Matute</title>
+     <description>Matute</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

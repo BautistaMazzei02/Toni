@@ -117,7 +117,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/cane\ corso\ fondo.png);
+  background-image: url(../images/Dogs_Cane_Corso_Black_Black_background_527500_1280x857.jpg);
   background-size: cover;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
   z-index: -1;
@@ -696,7 +696,7 @@ nav a:hover {
 }
 
 .price__elementandy {
-  background-image: url(../images/ricky);
+  background-image: url(../images/tomas.png);
   text-align: center;
   border-radius: 10px;
   width: 100px;
@@ -721,58 +721,6 @@ nav a:hover {
   --color-items: #696871;
 }
 
-.price__elementcriadero1caniche {
-  background-image: url(../images/mañe.jpg);
-  text-align: center;
-  border-radius: 10px;
-  width: 330px;
-  padding: 40px;
-  --color-plan: #696871;
-  --color-price: #1D293F;
-  --bg-cta: #fff;
-  --color-cta: #5454D4;
-  --color-items: #696871;
-}
-
-.price__elementcriadero2caniche {
-  background-image: url(../images/toto.jpg);
-  text-align: center;
-  border-radius: 10px;
-  width: 330px;
-  padding: 40px;
-  --color-plan: #696871;
-  --color-price: #1D293F;
-  --bg-cta: #fff;
-  --color-cta: #5454D4;
-  --color-items: #696871;
-}
-
-.price__elementcriadero1bulldog {
-  background-image: url(../images/bulll);
-  text-align: center;
-  border-radius: 10px;
-  width: 330px;
-  padding: 40px;
-  --color-plan: #696871;
-  --color-price: #1D293F;
-  --bg-cta: #fff;
-  --color-cta: #5454D4;
-  --color-items: #696871;
-}
-
-.price__elementcriadero2bulldog {
-  background-image: url(../images/hugo);
-  text-align: center;
-  border-radius: 10px;
-  width: 330px;
-  padding: 40px;
-  --color-plan: #696871;
-  --color-price: #1D293F;
-  --bg-cta: #fff;
-  --color-cta: #5454D4;
-  --color-items: #696871;
-}
-
 .price__element {
   background-color: #e5e5f7;
   text-align: center;
@@ -786,18 +734,7 @@ nav a:hover {
   --color-items: #696871;
 }
 
-.price__elementrefugios {
-  background-image: url(../images/refu\ 2.jpg);
-  text-align: center;
-  border-radius: 10px;
-  width: 330px;
-  padding: 40px;
-  --color-plan: #696871;
-  --color-price: #1D293F;
-  --bg-cta: #fff;
-  --color-cta: #5454D4;
-  --color-items: #696871;
-}
+
 
 /**contacto formulario**/
 .form-register {
