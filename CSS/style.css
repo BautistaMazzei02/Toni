@@ -143,7 +143,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/labra);
+  background-image: url(../images/labrador.jpg);
   background-size: cover;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
   z-index: -1;
@@ -173,7 +173,7 @@ nav a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/bulldog\ ingles\ 1);
+  background-image: url(../images/bulldog\ ingles.jpg);
   background-size: cover;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
   z-index: -1;
